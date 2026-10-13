@@ -8,8 +8,9 @@ Compressed Biogas (CBG) sector. It runs on Google Colab with no paid services.
 > answers can contain mistakes. Always check important numbers and dates against the
 > original document.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shyampandey263/gobardhan-guidelines-chatbot/blob/main/gobardhan_chatbot.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shyampandey263/gobardhan-guidelines-chatbot/blob/main/GOBARdhan_Guidelines_Chatbot.ipynb)
 
+![Chat example](chat.png)
 ## What it does
 
 - Reads a **scanned PDF (Portable Document Format)** using OCR (Optical Character Recognition)
