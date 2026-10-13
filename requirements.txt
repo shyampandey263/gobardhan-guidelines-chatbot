@@ -1,0 +1,4 @@
+from importlib.metadata import version
+for p in ["transformers", "accelerate", "gradio", "sentence-transformers", "faiss-cpu",
+          "rank-bm25", "torch", "pytesseract", "pdf2image", "pypdf"]:
+    print(f"{p}=={version(p)}")
